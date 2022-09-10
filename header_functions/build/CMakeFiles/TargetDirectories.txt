@@ -1,0 +1,4 @@
+/home/kch/CPP/thinking_in_cpp/header_functions/build/CMakeFiles/functions.dir
+/home/kch/CPP/thinking_in_cpp/header_functions/build/CMakeFiles/main.dir
+/home/kch/CPP/thinking_in_cpp/header_functions/build/CMakeFiles/edit_cache.dir
+/home/kch/CPP/thinking_in_cpp/header_functions/build/CMakeFiles/rebuild_cache.dir
