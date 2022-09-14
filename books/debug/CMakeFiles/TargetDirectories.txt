@@ -1,0 +1,3 @@
+/home/kch/CPP/thinking_in_cpp/books/debug/CMakeFiles/main.dir
+/home/kch/CPP/thinking_in_cpp/books/debug/CMakeFiles/edit_cache.dir
+/home/kch/CPP/thinking_in_cpp/books/debug/CMakeFiles/rebuild_cache.dir
